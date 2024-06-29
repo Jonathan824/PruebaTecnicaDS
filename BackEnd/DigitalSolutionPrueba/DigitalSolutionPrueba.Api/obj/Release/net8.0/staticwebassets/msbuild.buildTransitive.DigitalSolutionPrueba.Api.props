@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DigitalSolutionPrueba.Api.props" />
+</Project>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DigitalSolutionPrueba.Application/1.0.0": {
+        "dependencies": {
+          "DigitalSolutionPrueba.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DigitalSolutionPrueba.Application.dll": {}
+        }
+      },
+      "DigitalSolutionPrueba.Domain/1.0.0": {
+        "runtime": {
+          "DigitalSolutionPrueba.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigitalSolutionPrueba.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DigitalSolutionPrueba.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

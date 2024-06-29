@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DigitalSolutionPrueba.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61616;http://localhost:61617"
+    }
+  }
+}

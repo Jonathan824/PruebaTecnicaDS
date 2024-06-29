@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.20.70" />
+    <PackageReference Include="xunit" Version="2.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalSolutionPrueba.Api\DigitalSolutionPrueba.Api.csproj" />
+    <ProjectReference Include="..\DigitalSolutionPrueba.Application\DigitalSolutionPrueba.Application.csproj" />
+    <ProjectReference Include="..\DigitalSolutionPrueba.Domain\DigitalSolutionPrueba.Domain.csproj" />
+    <ProjectReference Include="..\DigitalSolutionPrueba.Infrastructure\DigitalSolutionPrueba.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

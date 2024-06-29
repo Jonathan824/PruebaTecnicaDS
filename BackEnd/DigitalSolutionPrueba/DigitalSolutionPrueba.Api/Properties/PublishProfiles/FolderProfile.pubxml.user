@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-06-28T23:26:19.6112610Z||;False|2024-06-28T18:25:43.4152610-05:00||;True|2024-06-28T17:10:32.6605920-05:00||;True|2024-06-28T17:05:25.3563664-05:00||;True|2024-06-28T15:59:39.7752608-05:00||;True|2024-06-28T11:37:00.4269048-05:00||;True|2024-06-27T18:26:21.8469740-05:00||;True|2024-06-27T13:13:05.6836413-05:00||;True|2024-06-27T12:59:56.6060425-05:00||;True|2024-06-27T12:59:13.4951137-05:00||;True|2024-06-27T12:22:13.7450877-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

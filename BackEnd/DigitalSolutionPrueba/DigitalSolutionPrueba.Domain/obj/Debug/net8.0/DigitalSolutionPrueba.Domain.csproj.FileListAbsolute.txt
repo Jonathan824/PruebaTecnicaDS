@@ -1,0 +1,11 @@
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\bin\Debug\net8.0\DigitalSolutionPrueba.Domain.deps.json
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\bin\Debug\net8.0\DigitalSolutionPrueba.Domain.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\bin\Debug\net8.0\DigitalSolutionPrueba.Domain.pdb
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\obj\Debug\net8.0\DigitalSolutionPrueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\obj\Debug\net8.0\DigitalSolutionPrueba.Domain.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\obj\Debug\net8.0\DigitalSolutionPrueba.Domain.AssemblyInfo.cs
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\obj\Debug\net8.0\DigitalSolutionPrueba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\obj\Debug\net8.0\DigitalSolutionPrueba.Domain.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\obj\Debug\net8.0\refint\DigitalSolutionPrueba.Domain.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\obj\Debug\net8.0\DigitalSolutionPrueba.Domain.pdb
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Domain\obj\Debug\net8.0\ref\DigitalSolutionPrueba.Domain.dll

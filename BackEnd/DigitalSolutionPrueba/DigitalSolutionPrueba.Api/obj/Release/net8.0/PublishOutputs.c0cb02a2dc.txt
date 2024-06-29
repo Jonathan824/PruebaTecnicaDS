@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Api.exe
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Api.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Api.deps.json
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Api.runtimeconfig.json
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Api.pdb
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Application.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Domain.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Infrastructure.dll
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Application.pdb
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Domain.pdb
+C:\Users\jonat\source\repos\DigitalSolutionPrueba\DigitalSolutionPrueba.Api\obj\Release\net8.0\PubTmp\Out\DigitalSolutionPrueba.Infrastructure.pdb
